@@ -35,17 +35,6 @@ Every lesson markdown file follows the same consistent format:
 
 ---
 
-## 🛠️ Database Used
-
-Most exercises use a **Pixar movies** database. The main tables include:
-
-- `movies` — title, director, year, length_minutes
-- `boxoffice` — movie_id, rating, domestic_sales, international_sales
-
-Some later lessons introduce additional tables for JOIN exercises.
-
----
-
 ## 📖 Source
 
 All exercises are sourced from [SQLBolt](https://sqlbolt.com/) — a free, interactive SQL learning site. This repository exists purely for learning and reference purposes.
