@@ -10,6 +10,7 @@ A structured collection of SQL exercise solutions based on the interactive lesso
 |---|--------|-------|
 | 01 | [SELECT queries 101](Question1.md) | Selecting columns from a table |
 | 02 | [Queries with constraints (Pt. 1)](Question2.md) | Filtering rows with WHERE and numerical operators |
+| 03 | [Queries with constraints (Pt. 2)](Question3.md) | Filtering text with LIKE, %, _ and string operators |
 
 ---
 
