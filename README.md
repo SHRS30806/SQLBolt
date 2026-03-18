@@ -9,23 +9,6 @@ A structured collection of SQL exercise solutions based on the interactive lesso
 | # | Lesson | Topic |
 |---|--------|-------|
 | 01 | [SELECT queries 101](lessons/lesson-01-select-queries.md) | Selecting columns from a table |
-| 02 | *(coming soon)* | Queries with constraints (Pt. 1) |
-| 03 | *(coming soon)* | Queries with constraints (Pt. 2) |
-| 04 | *(coming soon)* | Filtering and Sorting Query Results |
-| 05 | *(coming soon)* | Simple SELECT Queries |
-| 06 | *(coming soon)* | Multi-table queries with JOINs |
-| 07 | *(coming soon)* | OUTER JOINs |
-| 08 | *(coming soon)* | A short note on NULLs |
-| 09 | *(coming soon)* | Queries with Expressions |
-| 10 | *(coming soon)* | Queries with Aggregates (Pt. 1) |
-| 11 | *(coming soon)* | Queries with Aggregates (Pt. 2) |
-| 12 | *(coming soon)* | Order of execution of a Query |
-| 13 | *(coming soon)* | Inserting rows |
-| 14 | *(coming soon)* | Updating rows |
-| 15 | *(coming soon)* | Deleting rows |
-| 16 | *(coming soon)* | Creating tables |
-| 17 | *(coming soon)* | Altering tables |
-| 18 | *(coming soon)* | Dropping tables |
 
 ---
 
