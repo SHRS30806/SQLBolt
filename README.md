@@ -12,6 +12,8 @@ A structured collection of SQL exercise solutions based on the interactive lesso
 | 02 | [Queries with constraints (Pt. 1)](Question2.md) | Filtering rows with WHERE and numerical operators |
 | 03 | [Queries with constraints (Pt. 2)](Question3.md) | Filtering text with LIKE, %, _ and string operators |
 | 04 | [Filtering and sorting Query results](Question4.md) | DISTINCT, ORDER BY, LIMIT and OFFSET |
+| 05 | [Review: Simple SELECT Queries](Review.md) | Combining WHERE, ORDER BY, LIMIT and OFFSET |
+
 
 ---
 
